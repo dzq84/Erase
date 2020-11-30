@@ -1,37 +1,15 @@
 ## Welcome to ERASE
 
-You can use the [editor on GitHub](https://github.com/dzq84/dzq84.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+近期内容：
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+你可以来看看我们的 [嘻哈音乐专场](https://mp.weixin.qq.com/s/UBlBFh8MkVT1pRS-ke0yKg) 
+绝对是一场视听盛宴
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+JOIN US
 
-- Bulleted
-- List
+来享受音乐和生活
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dzq84/dzq84.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
