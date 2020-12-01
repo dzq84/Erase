@@ -20,3 +20,5 @@ JOIN US
 ```
 <audio controls="controls">
   <source src="Radiohead - Spectre.mp3" type="audio/mp3" />
+
+[支持我们]<iframe src="支付.html" frameborder="0"></iframe>
