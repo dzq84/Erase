@@ -15,5 +15,5 @@ JOIN US
 来享受音乐和生活
 
 ```
-
-<object height="100" width="100" data="Radiohead-Spectre.mp3"></object>
+<audio controls="controls">
+  <source src="Radiohead - Spectre.mp3" type="audio/mp3" />
