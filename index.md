@@ -16,10 +16,4 @@ JOIN US
 
 ```
 
-对了，来听听我们带给的精彩曲目吧
-
-来自 Radiohead 
-
-Spectre
-
 <object height="100" width="100" data="Radiohead-Spectre.mp3"></object>
